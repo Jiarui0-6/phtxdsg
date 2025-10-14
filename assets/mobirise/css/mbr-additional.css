@@ -21,11 +21,11 @@ body {
 }
 .display-1 {
   font-family: 'Inter Tight', sans-serif;
-  font-size: 5rem;
+  font-size: 6rem;
   line-height: 1;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 6.25rem;
+  font-size: 7.5rem;
 }
 .display-2 {
   font-family: 'Inter Tight', sans-serif;
@@ -66,14 +66,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 992px) {
   .display-1 {
-    font-size: 4rem;
+    font-size: 4.8rem;
   }
 }
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.5rem;
-    font-size: calc( 2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.1 * (2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 4.2rem;
+    font-size: calc( 2.75rem + (6 - 2.75) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.1 * (2.75rem + (6 - 2.75) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.92rem;
@@ -98,9 +98,9 @@ body {
 }
 @media (min-width: 992px) and (max-width: 1400px) {
   .display-1 {
-    font-size: 3.5rem;
-    font-size: calc( 2.4rem + (5 - 2.4) * ((100vw - 62rem) / (87 - 62)));
-    line-height: calc( 1.1 * (2.4rem + (5 - 2.4) * ((100vw - 62rem) / (87 - 62))));
+    font-size: 4.2rem;
+    font-size: calc( 2.75rem + (6 - 2.75) * ((100vw - 62rem) / (87 - 62)));
+    line-height: calc( 1.1 * (2.75rem + (6 - 2.75) * ((100vw - 62rem) / (87 - 62))));
   }
   .display-2 {
     font-size: 1.92rem;
@@ -783,7 +783,7 @@ a {
   background-image: url("../../../assets/images/jimeng-2025-10-14-9094-1...-2.png");
 }
 .cid-uZzuQBCP6N .mbr-overlay {
-  background-color: #ffffff;
+  background-color: #000000;
   opacity: 0.2;
 }
 @media (min-width: 768px) {
@@ -828,9 +828,9 @@ a {
   color: #ffffff;
 }
 .cid-uZzv381otk {
-  padding-top: 4rem;
+  padding-top: 5rem;
   padding-bottom: 2rem;
-  background-image: url("../../../assets/images/jimeng-2025-10-14-9094-1...-3.png");
+  background-color: #ffffff;
 }
 .cid-uZzv381otk .mbr-fallback-image.disabled {
   display: none;
@@ -866,16 +866,16 @@ a {
   }
 }
 .cid-uZzv381otk .mbr-section-title {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-uZzv381otk .mbr-text,
 .cid-uZzv381otk .mbr-section-btn {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-uZAc7af058 {
-  padding-top: 3rem;
+  padding-top: 6rem;
   padding-bottom: 3rem;
-  background-image: url("../../../assets/images/jimeng-2025-10-14-9094-1...-5.png");
+  background-color: #ffffff;
 }
 .cid-uZAc7af058 .mbr-fallback-image.disabled {
   display: none;
@@ -908,16 +908,16 @@ a {
   }
 }
 .cid-uZAc7af058 .mbr-section-title {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-uZAc7af058 .mbr-text,
 .cid-uZAc7af058 .mbr-section-btn {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-uZAdgl3Wx9 {
-  padding-top: 3rem;
+  padding-top: 7rem;
   padding-bottom: 2rem;
-  background-image: url("../../../assets/images/jimeng-2025-10-14-9094-1...-6.png");
+  background-color: #ffffff;
 }
 .cid-uZAdgl3Wx9 .mbr-fallback-image.disabled {
   display: none;
@@ -953,16 +953,16 @@ a {
   }
 }
 .cid-uZAdgl3Wx9 .mbr-section-title {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-uZAdgl3Wx9 .mbr-text,
 .cid-uZAdgl3Wx9 .mbr-section-btn {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-uZAdRCEoVk {
-  padding-top: 3rem;
+  padding-top: 7rem;
   padding-bottom: 2rem;
-  background-image: url("../../../assets/images/jimeng-2025-10-14-9094-1...-7.png");
+  background-color: #ffffff;
 }
 .cid-uZAdRCEoVk .mbr-fallback-image.disabled {
   display: none;
@@ -995,12 +995,12 @@ a {
   }
 }
 .cid-uZAdRCEoVk .mbr-section-title {
-  color: #ffffff;
+  color: #000000;
   text-align: justify;
 }
 .cid-uZAdRCEoVk .mbr-text,
 .cid-uZAdRCEoVk .mbr-section-btn {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-uZAqv2BLOh {
   padding-top: 6rem;
